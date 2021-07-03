@@ -13,4 +13,6 @@ Tasks & skills:
 
 Check out the course! https://www.coursera.org/projects/nlp-fake-news-detector
 
+Proof of completion: http://coursera.org/verify/9RBUZL639ZEJ
+
 Credits: Ryan Ahmed
