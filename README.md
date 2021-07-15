@@ -11,7 +11,7 @@ Tasks & skills:
 - Build and train the deep learning model
 - Access the performance of the trained model
 
-Check out the course! https://www.coursera.org/projects/nlp-fake-news-detector
+Check out the project! https://www.coursera.org/projects/nlp-fake-news-detector
 
 Proof of completion: http://coursera.org/verify/9RBUZL639ZEJ
 
